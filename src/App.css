@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Padauk:wght@700&display=swap');
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-image: url('./assets/bg.jpg');
+  background-size: cover;
+  /* height: 100vh; */
+}
+
+.App-header {
+  /* display: flex;
+  justify-content: center;
+  flex-direction: column; */
+}
+
+.what-is {
+  /* background-color: aliceblue; */
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  /* background-color: chartreuse; */
+  flex-direction: column;
+
+}
+
+.what-is a {
+  text-decoration: none;
+  color: lightseagreen;
+}
+.nft {
+  /* background-color: aliceblue; */
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  /* background-color: rgb(59, 0, 236); */
+  color: white;
+
+}
+
+.nft p {
+  font-size: 2rem;
+  color: white;
+  font-family: 'Padauk', sans-serif;
+
+ }
+ 
+
+.what-is p {
+ font-size: 2rem;
+ color: white;
+ font-family: 'Padauk', sans-serif;
+
+}
+
+.astral {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  /* background-color: burlywood; */
+
+}
+.what-is .res {
+  font-family: 'Courier New', Courier, monospace !important;
+  font-size: 2rem !important;
+  font-weight: 800 !important;
+  color: rgb(255, 255, 255) !important;
+  background-color: rgb(39, 19, 77)
+}
+
+.presale {
+  font-family: 'Courier New', Courier, monospace !important;
+  font-size: 2rem !important;
+  font-weight: 800 !important;
+  color: rgb(255, 255, 255) !important;
+  background-color: rgb(39, 19, 77)
+}
+
+.para {
+  font-family: 'Courier New', Courier, monospace !important;
+  font-size: 2rem !important;
+  font-weight: 800 !important;
+  color: rgb(255, 255, 255) !important;
+  background-color: rgb(39, 19, 77)
+}
