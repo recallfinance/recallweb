@@ -11,7 +11,7 @@ const Example = (props) => {
   <a href="/"><img src={NavLogo} className="nav-logo" /></a>
   <nav class="site-nav">
     <ul>
-      <li><Link to="/">$Buy Recall</Link></li>
+      <li><a href="https://app.uniswap.org/#/swap?inputCurrency=0x02614aeb11cfbffdb68bbee50a498ae947181dae">$Buy Recall</a></li>
       <li><a href="https://www.dextools.io/app/uniswap/pair-explorer/0xcf0c7670e2c7d3eb8edea0b252603f22380f41a1" target="_blank" rel="noopener noreferrer">DexTools</a></li>
       <li><a href="https://recallfinance.medium.com/" target="_blank" rel="noopener noreferrer">Medium</a></li>
       <li><a href="https://t.me/recallfinance" target="_blank" rel="noopener noreferrer">Telegram</a></li>
